@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Repurposing Devices</b>
-  - [Installing Mabox Linux on a Chromebook]
+- <b>Repurposing A Device</b>
+  - [Installing Mabox Linux on a Chromebook](https://github.com/AnthonyBryant1/LinuxChromebook/tree/main)
 - <b>Network Setup</b>
   - [Providing Connectivity Using Moca 2.5]
 - <b>Tech Support</b>
