@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony! <br/><a href="https://github.com/joshmadakor1">IT Technical Support</a> <a href="https://www.linkedin.com/in/joshmadakor/">
+<h1>Hi, I'm Anthony! <br/><a href="https://github.com/joshmadakor1">IT Technical Support</a> 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
