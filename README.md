@@ -5,7 +5,7 @@
 - <b>Repurposing A Device</b>
   - [Installing Mabox Linux on a Chromebook](https://github.com/AnthonyBryant1/LinuxChromebook/tree/main)
 - <b>Network Setup</b>
-  - [Providing Connectivity Using Moca 2.5]
+  - [Providing Connectivity Using Moca 2.5](https://github.com/AnthonyBryant1/mocaethernet/tree/main)
 - <b>Tech Support</b>
   - [Unlocking A Device With No Password, Troubleshooting Performance Issues]
   
