@@ -3,15 +3,15 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Repurposing Devices</b>
-  - [Installing Mabox Linux on a Chromebook](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Installing Mabox Linux on a Chromebook]
 - <b>Network Setup</b>
-  - [Providing Connectivity Using Moca 2.5](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Providing Connectivity Using Moca 2.5]
 - <b>Tech Support</b>
-  - [Unlocking A Device With No Password, Troubleshooting Performance Issues](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Unlocking A Device With No Password, Troubleshooting Performance Issues]
   
 <h2>📺 Project Video</h2>
 
-- [Mocha 2.5 Provides Ethernet with Existing Coax](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Mocha 2.5 Provides Ethernet with Existing Coax]
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -20,10 +20,10 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: 
+[youtube]: 
+[instagram]: 
+[linkedin]: 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
