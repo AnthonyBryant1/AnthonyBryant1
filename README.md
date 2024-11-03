@@ -7,7 +7,7 @@
 - <b>Network Setup</b>
   - [Providing Connectivity Using Moca 2.5](https://github.com/AnthonyBryant1/mocaethernet/tree/main)
 - <b>Tech Support</b>
-  - [Unlocking A Device With No Password, Troubleshooting Performance Issues]
+  - [Unlocking A Device With No Password, Troubleshooting Performance Issues](https://github.com/AnthonyBryant1/TroubleshootingHPlaptop/tree/main)
   
 <h2>📺 Project Video</h2>
 
